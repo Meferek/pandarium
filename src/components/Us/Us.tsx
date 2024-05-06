@@ -20,7 +20,7 @@ const Us = () => {
         {
             name: 'Michał Świercz',
             quote: 'Mamy tu trzy sposoby działania: właściwy sposób, zły sposób i sposób, w jaki ja to robię',
-            photo: 'michal.jpg',
+            photo: 'michalu.jpg',
             roles: ['Frontend Developer', 'Graphic Designer'],
         },
         {
